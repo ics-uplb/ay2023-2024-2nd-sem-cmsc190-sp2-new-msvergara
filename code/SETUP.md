@@ -1,19 +1,20 @@
-# Development Set-up
-## Prerequisites
-* interpreter
-* package manager 1
-* test files (file1, file2)
-* Android phone
-* IDE used, etc
-## Instructions
-1. Install `interpeter` from link
-2. Run the following command to install other packages:
-```
-interpreter install package_manager
-package_manager -i packages
-```
-3. Run the following command to use the program:
-```
-myprogram file1 file2
-```
-4. A binary file can also be downloaded from this link which can be used by any device.
+This system is created using XAMPP (with Laravel as Framework) in partial fulfilment for the course CMSC190 Special Problem.
+
+# Getting Started
+#### After Cloning
+1. ```composer install ```
+If errors occur, try:
+``` composer clearcache ``` and ``` composer selfupdate ```
+2. ``` php artisan storage:link ```
+Create .env file using the .env.example provided
+3. ``` php artisan key:generate ```
+4. ``` php artisan migrate:fresh --seed ```
+5. ``` php artisan optimize:clear ```
+6. ``` php artisan route:cache ```
+7. ``` php artisan route:clear ```
+
+#### Ciphersweet
+1. Add "CIPHERSWEET_KEY=" at the lowest part of the .env.
+2. Run on terminal: ``` php artisan ciphersweet:generate-key ```
+
+

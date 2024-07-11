@@ -1,8 +1,6 @@
-# My Special Problem: An example of CMSC 190 GitHub Repository
-Authors: Juan D. Cruz and Adviser' S. Name
+# RHConnect: A Web-Based Electronic Medical Records (EMR) System for Laur Rural Health Center.
+Authors: Marian Stephanie C. Vergara and Asst. Prof. Rizza DC. Mercado
 
-This is the abstract of my special problem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut congue, diam molestie pellentesque feugiat, lorem libero vehicula lorem, eget accumsan magna mi non sem. Aliquam erat volutpat. Aliquam scelerisque sagittis mi sed consequat. Ut vestibulum ullamcorper fermentum. Vivamus eu efficitur nunc, quis tempus libero. Aliquam condimentum posuere sem, vitae auctor purus tempus quis. Aenean laoreet nulla pretium mauris faucibus gravida. Nunc interdum, tortor at tempus egestas, velit eros bibendum dui, a malesuada mi lectus ut ante. Praesent ac turpis gravida, tincidunt tellus vitae, volutpat tortor.
+With the emergence of digital technology, creating and storing health records is essential to enhance patient care and efficiency. This study has developed a web-based electronic medical records system for the rural health center of Laur, Nueva Ecija. The system digitizes the record management process and automates administrative tasks such as the generation of medical certificates and referral letters in order to help the rural health center improve and become a better provider of high-quality, patient-centered care that enhances the quality of life for all members of the community. Usability testing conducted with healthcare professionals in the health center yielded a System Usability Scale (SUS) score of 84, indicating an above-average and excellent user experience for the developed system. Index 
 
-Keywords: template, submission, repository, example
-
-Read [How To Document](HOWTO.md) for more details.
+Keywords: electronic medical records, web-based system
